@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 ### :technologist: &nbsp;About Me :
 
-I am a Full Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> BAsed in Dublin Ireland.
+I am a Full Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Dublin, Ireland.
 
 - 🔭 I’m working as a Data Scientist working on Machine Learning Powered Applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/timi-onibonoje/](https://www.linkedin.com/in/timi-onibonoje/))
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Timi-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/timi-onibonoje/](https://www.linkedin.com/in/timi-onibonoje/))
 
 ---
 
